@@ -1,4 +1,4 @@
-# **MOVIE_DATABASE_SQL :**
+# **MOVIE_DATABASE_SQL_3 :**
 <image src = "https://user-images.githubusercontent.com/98200001/171444977-c9f50e1c-9d90-4a7f-b61f-74a71e8e1ab7.png" width = "700" height = "350">
 
 #### **SQL-3_PROBLEM STATEMENT AND OUTPUTS :**
