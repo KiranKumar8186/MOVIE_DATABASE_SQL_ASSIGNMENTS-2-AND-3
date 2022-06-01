@@ -54,9 +54,7 @@ WHERE
     RATING.REV_STARS = (SELECT 
             MIN(RATING.REV_STARS)
         FROM
-            RATING
-        WHERE
-            REV_STARS != 0); 
+            RATING); 
             
 #=========================================================================================================================================================================#
 ## Q4. Write a SQL query to find the movies directed by 'James Cameron'. Return movie title.
